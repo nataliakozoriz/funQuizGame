@@ -1,2 +1,2 @@
 # funQuizGame
-Download this repo, open the index file in browser and the game will start.
+Download this repo, open the index file in your browser and the game will start.
